@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ElectronicShop/static/css/main.d011f836.chunk.css",
+    "main.js": "/ElectronicShop/static/js/main.36a4bc68.chunk.js",
+    "main.js.map": "/ElectronicShop/static/js/main.36a4bc68.chunk.js.map",
+    "runtime-main.js": "/ElectronicShop/static/js/runtime-main.333c0fdc.js",
+    "runtime-main.js.map": "/ElectronicShop/static/js/runtime-main.333c0fdc.js.map",
+    "static/css/2.673c3ec3.chunk.css": "/ElectronicShop/static/css/2.673c3ec3.chunk.css",
+    "static/js/2.5f1051cd.chunk.js": "/ElectronicShop/static/js/2.5f1051cd.chunk.js",
+    "static/js/2.5f1051cd.chunk.js.map": "/ElectronicShop/static/js/2.5f1051cd.chunk.js.map",
+    "index.html": "/ElectronicShop/index.html",
+    "static/css/2.673c3ec3.chunk.css.map": "/ElectronicShop/static/css/2.673c3ec3.chunk.css.map",
+    "static/css/main.d011f836.chunk.css.map": "/ElectronicShop/static/css/main.d011f836.chunk.css.map",
+    "static/js/2.5f1051cd.chunk.js.LICENSE.txt": "/ElectronicShop/static/js/2.5f1051cd.chunk.js.LICENSE.txt",
+    "static/media/Group 1441.cc268553.png": "/ElectronicShop/static/media/Group 1441.cc268553.png",
+    "static/media/Group 329@2x.5f16d414.png": "/ElectronicShop/static/media/Group 329@2x.5f16d414.png",
+    "static/media/Group 331@2x.f239f259.png": "/ElectronicShop/static/media/Group 331@2x.f239f259.png",
+    "static/media/Group 333@2x.57019743.png": "/ElectronicShop/static/media/Group 333@2x.57019743.png",
+    "static/media/Group 335@2x.7021f7ee.png": "/ElectronicShop/static/media/Group 335@2x.7021f7ee.png",
+    "static/media/Group 575@2x.d3a9a51d.png": "/ElectronicShop/static/media/Group 575@2x.d3a9a51d.png",
+    "static/media/all.min.css": "/ElectronicShop/static/media/fa-solid-900.f4f93856.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.333c0fdc.js",
+    "static/css/2.673c3ec3.chunk.css",
+    "static/js/2.5f1051cd.chunk.js",
+    "static/css/main.d011f836.chunk.css",
+    "static/js/main.36a4bc68.chunk.js"
+  ]
+}
