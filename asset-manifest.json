@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ElectronicShop/static/css/main.d011f836.chunk.css",
-    "main.js": "/ElectronicShop/static/js/main.36a4bc68.chunk.js",
-    "main.js.map": "/ElectronicShop/static/js/main.36a4bc68.chunk.js.map",
+    "main.js": "/ElectronicShop/static/js/main.f36edf99.chunk.js",
+    "main.js.map": "/ElectronicShop/static/js/main.f36edf99.chunk.js.map",
     "runtime-main.js": "/ElectronicShop/static/js/runtime-main.333c0fdc.js",
     "runtime-main.js.map": "/ElectronicShop/static/js/runtime-main.333c0fdc.js.map",
     "static/css/2.673c3ec3.chunk.css": "/ElectronicShop/static/css/2.673c3ec3.chunk.css",
@@ -25,6 +25,6 @@
     "static/css/2.673c3ec3.chunk.css",
     "static/js/2.5f1051cd.chunk.js",
     "static/css/main.d011f836.chunk.css",
-    "static/js/main.36a4bc68.chunk.js"
+    "static/js/main.f36edf99.chunk.js"
   ]
 }
